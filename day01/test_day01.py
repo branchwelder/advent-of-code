@@ -3,8 +3,7 @@ Tests for Day 1 of Advent of Code 2021.
 Author: Hannah Twigg-Smith
 """
 
-from part1 import calculate_increases
-from part2 import calculate_increases_with_frame
+from day01 import calculate_increases, calculate_increases_with_frame
 
 
 def test_part1():
